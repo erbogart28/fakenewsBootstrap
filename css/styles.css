@@ -1,0 +1,22 @@
+
+body{
+	background-color:beige;
+}
+
+h1{
+    text-indent:-.3em;
+    margin-bottom:.8em;
+}
+h2{
+    margin-left:.4em;
+}
+
+h3{
+    text-indent:.5em;
+}
+
+p{
+    padding:.5em;
+    margin-left:.2em;
+}
+
